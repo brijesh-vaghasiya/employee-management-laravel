@@ -12,6 +12,9 @@ The **Employee Management System** is a robust web application designed to strea
 ### 🖼️ System Interface Peeks
 
 <div align="center">
+  <img src="public/screenshots/main-landing.png" alt="Portal Gateway" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);"/>
+  <br><i>Secure Infrastructure Gateway (Admin, Employee & ASC)</i><br><br>
+
   <img src="public/screenshots/admin-dashboard.png" alt="Admin Dashboard Overview" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);"/>
   <br><i>Company Administrative Super-Dashboard</i><br><br>
   
