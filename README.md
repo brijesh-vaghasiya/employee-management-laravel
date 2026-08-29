@@ -9,6 +9,18 @@
 ## 📖 Overview
 The **Employee Management System** is a robust web application designed to streamline HR operations, boost corporate discipline, and simplify intra-company communication. Built using **Laravel 12 (PHP 8.2)**, this system handles everything from attendance tracking to advanced technical workflows.
 
+### 🖼️ System Interface Peeks
+
+<div align="center">
+  <img src="public/screenshots/admin-dashboard.png" alt="Admin Dashboard Overview" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);"/>
+  <br><i>Company Administrative Super-Dashboard</i><br><br>
+  
+  <img src="public/screenshots/employee-tickets.png" alt="Employee Helpdesk Chat" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);"/>
+  <br><i>Internal Threaded Helpdesk Interface</i>
+</div>
+
+---
+
 ### 🏢 Key Modules Developed
 
 1. **Authentication & Multi-Role Architecture**
